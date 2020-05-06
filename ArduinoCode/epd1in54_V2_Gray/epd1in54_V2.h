@@ -1,5 +1,6 @@
 /* orignally https://github.com/waveshare/e-Paper/tree/master/Arduino/epd1in54_V2
  *  with functionally of https://github.com/waveshare/e-Paper/tree/master/Arduino/epd1in54
+ *  Added gray 4 color support (light gray,dark gray,black and white)
  */
 
 /*****************************************************************************
